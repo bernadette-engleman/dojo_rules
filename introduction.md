@@ -1,1 +1,5 @@
-I like HTML/CSS
+Github CodeSchool. HTML/CSS.
+
+* JavaScript
+*Git
+* Rebase
